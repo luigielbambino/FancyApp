@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FancyApp</string>
+    <string name="app_text_welcome">Welcome to the Online catalogue.
+        Hope you enjoy it.</string>
+    <string name="app_logo_description">Logo</string>
+    <string name="app_text_description">Description</string>
+    <string name="app_text_description_content">There are many variations of passages of lorem ipsum available, but the majority have suffered alterations in some form. by inected humour, or randomised words which don't look even sightly believable. If you are going to use a passage of Lorem Ipsum.</string>
+    <string name="app_text_congrats">Congratulations</string>
+    <string name="app_text_congrats_message">You already asked us to send your catalogue. Please wait for the catalog to arrive to your home.</string>
+</resources>
